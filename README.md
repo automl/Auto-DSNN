@@ -14,7 +14,7 @@ This repository extends DeepShift into an **AutoML framework** for optimizing De
 # Publications
 
 - Hennig, Lindauer. "Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks". In Transactions on Machine Learning Research (Accepted, 2025).
-- (Hennig, Tornede, Lindauer. "Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks". In PML4LRS Workshop @ ICLR (2024).)[https://arxiv.org/pdf/2404.01965]
+- [Hennig, Tornede, Lindauer. "Towards Leveraging AutoML for Sustainable Deep Learning: A Multi-Objective HPO Approach on Deep Shift Neural Networks". In PML4LRS Workshop @ ICLR (2024).](https://arxiv.org/pdf/2404.01965)
 
 ---
 
